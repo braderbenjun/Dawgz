@@ -48,9 +48,9 @@ ul li{
 	display:block;
 	width:256px;
 	height:147px;
-	background:url(../images/gonzo.png) no-repeat;
+	/* background:url(../images/gonzo.png) no-repeat; */
 	margin:0 auto;
-	text-indent:-99999px;
+	/* text-indent:-99999px; */
 }
 
 .navigation{
